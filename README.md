@@ -20,11 +20,13 @@ My focus is on Software Quality Assurance and Testing, bringing together my prev
 
 ## Projects
 
-**[Python Projects](https://github.com/guigarm85/python-projects)**
+### [E-Commerce QA Testing](https://github.com/guigarm85/ecommerce-qa-testing)
+
+A manual QA practice project covering requirements analysis, test scenarios and cases, simulated defect reporting, test execution results, and traceability using Jira, Testiny, and historical Xray references.
+
+### [Python Projects](https://github.com/guigarm85/python-projects)
 
 A collection of four Python applications demonstrating programming fundamentals, problem-solving, and code organization.
-
-Additional software testing and QA projects will be featured as they are published.
 
 ## Connect
 
