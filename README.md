@@ -1,3 +1,4 @@
+
 # Guilherme Miotti Fusco
 
 **Software QA & Testing | Manual & API Testing | Playwright | SQL**
@@ -27,6 +28,10 @@ A manual QA practice project covering requirements analysis, test scenarios and 
 ### [SQL Portfolio](https://github.com/guigarm85/sql-portfolio)
 
 A collection of ten SQL practice queries using MySQL to explore relational data, including filtering, joins, aggregations, subqueries, and data analysis.
+
+### [JavaScript Fundamentals](https://github.com/guigarm85/javascript-fundamentals)
+
+A collection of JavaScript practice examples covering programming fundamentals, including functions, arrays, objects, JSON, error handling, and basic asynchronous programming.
 
 ### [Python Projects](https://github.com/guigarm85/python-projects)
 
