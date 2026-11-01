@@ -24,6 +24,10 @@ My focus is on Software Quality Assurance and Testing, bringing together my prev
 
 A manual QA practice project covering requirements analysis, test scenarios and cases, simulated defect reporting, test execution results, and traceability using Jira, Testiny, and historical Xray references.
 
+### [SQL Portfolio](https://github.com/guigarm85/sql-portfolio)
+
+A collection of ten SQL practice queries using MySQL to explore relational data, including filtering, joins, aggregations, subqueries, and data analysis.
+
 ### [Python Projects](https://github.com/guigarm85/python-projects)
 
 A collection of four Python applications demonstrating programming fundamentals, problem-solving, and code organization.
