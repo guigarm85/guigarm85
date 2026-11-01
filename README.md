@@ -1,4 +1,3 @@
-
 # Guilherme Miotti Fusco
 
 **Software QA & Testing | Manual & API Testing | Playwright | SQL**
@@ -24,6 +23,10 @@ My focus is on Software Quality Assurance and Testing, bringing together my prev
 ### [E-Commerce QA Testing](https://github.com/guigarm85/ecommerce-qa-testing)
 
 A manual QA practice project covering requirements analysis, test scenarios and cases, simulated defect reporting, test execution results, and traceability using Jira, Testiny, and historical Xray references.
+
+### [Postman API Testing](https://github.com/guigarm85/postman-api-testing)
+
+An API testing practice project using Postman, JavaScript, and Newman with the Simple Tool Rental API. Includes HTTP request validation, authentication, automated collection runs, and recorded test results.
 
 ### [SQL Portfolio](https://github.com/guigarm85/sql-portfolio)
 
