@@ -28,6 +28,10 @@ A manual QA practice project covering requirements analysis, test scenarios and 
 
 An API testing practice project using Postman, JavaScript, and Newman with the Simple Tool Rental API. Includes HTTP request validation, authentication, automated collection runs, and recorded test results.
 
+### [Playwright Testing](https://github.com/guigarm85/playwright-testing)
+
+A JavaScript test automation practice project using Playwright and SauceDemo. Covers successful login and adding a product to the cart, using Page Object Model, custom fixtures, and cross-browser testing with Chromium, Firefox, and WebKit.
+
 ### [SQL Portfolio](https://github.com/guigarm85/sql-portfolio)
 
 A collection of ten SQL practice queries using MySQL to explore relational data, including filtering, joins, aggregations, subqueries, and data analysis.
